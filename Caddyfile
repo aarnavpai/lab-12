@@ -1,0 +1,7 @@
+lab12.aarnavpai.in {
+	root * /var/www
+	file_server
+	handle /users* /items* /analytics* /quiz* {
+		reverse_proxy app:8000
+	}
+}
