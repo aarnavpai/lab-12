@@ -16,7 +16,7 @@ app.add_middleware(
 
 app.include_router(items_router, prefix="/items")
 app.include_router(analytics_router)
-app.include_router(quiz_router)
+app.include_router(quiz_router, prefix="/quiz")
 
 
 # why the hell did I write this function?

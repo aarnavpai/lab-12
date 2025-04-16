@@ -60,7 +60,7 @@
 | 22  |                                          |               |              |
 | 23  |                                          |               |              |
 | 24  | Add CORS                                 | Aarnav Pai    | Aarnav Pai   |
-| 25  |                                          |               |              |
+| 25  | Quiz router prefix                       | Aarnav Pai    | Aarnav Pai   |
 | 26  |                                          |               |              |
 | 27  |                                          |               |              |
 | 28  |                                          |               |              |
