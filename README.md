@@ -49,7 +49,7 @@
 | 11  | quiz missing from nav bar                |Tarun Hariharan|Tarun Hariharan|
 | 12  | Changed userCount in profile.html        | Joshua K      | Joshua K     |
 | 13  | Changed html to json in items.js         | Joshua K      | Joshua K     |
-| 14  |                                          |               |              |
+| 14  | analytics user array made empty          | Aarnav Pai    | Aarnav Pai   |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
 | 17  |Fixed quiz.html layout, styles and nav bar|  Samarth Rao  | Samarth Rao  |
