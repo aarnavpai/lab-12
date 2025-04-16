@@ -36,7 +36,7 @@
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
-| 1   | Style.css is not filled                  |   Hari Aakash|    Hari Aakash|
+| 1   | Style.css is not filled                  |         Narain|    Whole Team|
 | 2   | changed style/ to script/ in profile.html|    Hari Aakash|   Hari Aakash|
 | 3   | div container missing in items.html      |  Samarth      |     Samarth  |
 | 4   | make items router an actual api router   | Aarnav Pai    | Aarnav Pai   |
@@ -63,7 +63,8 @@
 | 25  | Quiz router prefix                       | Aarnav Pai    | Aarnav Pai   |
 | 26  | POST /users -> GET                       | Aarnav Pai    | Aarnav Pai   |
 | 27  | Analytics router prefix                  | Aarnav Pai    | Aarnav Pai   |
-| 28  |                                          |               |              |
-| 29  |                                          |               |              |
+| 28  |Delete on userID not all in users.py      |Tarun Hariharan|Tarun Hariharan|
+| 29  | Analytics image                          | Aarnav Pai    | Aarnav Pai   |
 | 30  | Deleted home.js                          |  Hari Aakash  | Hari Aakash  |
 | 31  | int -> str in item name | Aarnav Pai | Aarnav Pai |
+| 32  | Singularize | Aarnav Pai | Aarnav Pai |
