@@ -50,7 +50,7 @@
 | 12  | Changed userCount in profile.html        | Joshua K      | Joshua K     |
 | 13  | Changed html to json in items.js         | Joshua K      | Joshua K     |
 | 14  | analytics user array made empty          | Aarnav Pai    | Aarnav Pai   |
-| 15  |                                          |               |              |
+| 15  | Added a bunch of baseURLs in profile.js  | Joshua K      | Joshua K     |
 | 16  |                                          |               |              |
 | 17  |Fixed quiz.html layout, styles and nav bar|  Samarth Rao  | Samarth Rao  |
 | 18  |                                          |               |              |
