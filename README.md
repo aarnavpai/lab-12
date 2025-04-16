@@ -55,13 +55,14 @@
 | 17  |Fixed quiz.html layout, styles and nav bar|  Samarth Rao  | Samarth Rao  |
 | 18  |Fixed field names in analytics.py        |Tarun Hariharan|Tarun Hariharan|
 | 19  |Changed baseURL to 8000 in analytics.js  |Tarun Hariharan|Tarun Hariharan|
+| 20  | POST /users -> GET                       | Aarnav Pai    | Aarnav Pai   |
 | 21  | Add users router                         | Aarnav Pai    | Aarnav Pai   |
 | 22  | Quiz random qustion                      | Aarnav Pai    | Aarnav Pai   |
 | 23  | GET /answer -> POST                      | Aarnav Pai    | Aarnav Pai   |
 | 24  | Add CORS                                 | Aarnav Pai    | Aarnav Pai   |
 | 25  | Quiz router prefix                       | Aarnav Pai    | Aarnav Pai   |
 | 26  | POST /users -> GET                       | Aarnav Pai    | Aarnav Pai   |
-| 27  |                                          |               |              |
+| 27  | Analytics router prefix                  | Aarnav Pai    | Aarnav Pai   |
 | 28  |                                          |               |              |
 | 29  |                                          |               |              |
 | 30  | Deleted home.js                          |  Hari Aakash  | Hari Aakash  |
