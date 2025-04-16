@@ -13,7 +13,7 @@ async function loadAnalytics() {
   document.getElementById("maxUserName").textContent = data.stats.max_user_username_length;
   
   // Do I play too much cricket... hmmm...
-  document.getElementById("plot").src = data.plot;
+  document.getElementById("plot").src = "data:image/png;base64," + data.plot;
 }
 
 loadAnalytics();

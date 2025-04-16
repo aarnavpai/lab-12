@@ -64,5 +64,5 @@
 | 26  | POST /users -> GET                       | Aarnav Pai    | Aarnav Pai   |
 | 27  | Analytics router prefix                  | Aarnav Pai    | Aarnav Pai   |
 | 28  |Delete on userID not all in users.py      |Tarun Hariharan|Tarun Hariharan|
-| 29  |                                          |               |              |
+| 29  | Analytics image                          | Aarnav Pai    | Aarnav Pai   |
 | 30  | Deleted home.js                          |  Hari Aakash  | Hari Aakash  |

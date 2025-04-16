@@ -38,12 +38,11 @@ async def get_analytics():
     user_count = len(users)
 
     print("e")
-    # field name mismatch shoud be name and username
     item_name_lengths = (
-        np.array([len(item["name"]) for item in items]) if items else np.array([])
+        np.array([len(item["names"]) for item in items]) if items else np.array([])
     )
     user_username_lengths = (
-        np.array([len(user["username"]) for user in users]) if users else np.array([])
+        np.array([len(user["usernames"]) for user in users]) if users else np.array([])
     )
     print("f")
 
@@ -87,4 +86,4 @@ async def get_analytics():
     image_base64 = base64.b64encode(buffer.getvalue()).decode("utf-8")
     plt.close()
 
-    return JSONResponse({"stats": stats})
+    return JSONResponse({"stats": stats, "plot": image_base64})
