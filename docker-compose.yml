@@ -2,7 +2,7 @@ services:
   app:
     build:
       context: backend
-      dockerfile: backend/Dockerfile
+      dockerfile: Dockerfile
     depends_on:
       - mongo
     restart: unless-stopped
