@@ -42,7 +42,7 @@
 | 8   | Fix the charset                          | Aarnav Pai    | Aarnav Pai   |
 | 9   | search not working in news.js            |  Samarth Rao  | Samarth Rao  |
 | 10  | source select not working in news.js     |  Samarth Rao  | Samarth Rao  |
-| 11  |                                          |               |              |
+| 11  | quiz missing from nav bar                |Tarun Hariharan|Tarun Hariharan|
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |
