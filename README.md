@@ -35,9 +35,9 @@
 | 1   | Style.css is not filled                  |         Narain|    Whole Team|
 | 2   | changed style/ to script/ in profile.html|    Hari Aakash|   Hari Aakash|
 | 3   | div container missing in items.html      |  Samarth      |     Samarth  |
-| 4   |                                          |               |              |
-| 5   |                                          |               |              |
-| 6   |                                          |               |              |
+| 4   | make items router an actual api router   | Aarnav Pai    | Aarnav Pai   |
+| 5   | fix double router.post in items          | Aarnav Pai    | Aarnav Pai   |
+| 6   | make Item inherit BaseModel              | Aarnav Pai    | Aarnav Pai   |
 | 7   |                                          |               |              |
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
