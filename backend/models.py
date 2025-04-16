@@ -3,7 +3,7 @@ from pydantic import BaseModel
 
 # fix inherit
 class Item(BaseModel):
-    name: int
+    name: str
     description: str
 
 

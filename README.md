@@ -66,3 +66,4 @@
 | 28  |Delete on userID not all in users.py      |Tarun Hariharan|Tarun Hariharan|
 | 29  | Analytics image                          | Aarnav Pai    | Aarnav Pai   |
 | 30  | Deleted home.js                          |  Hari Aakash  | Hari Aakash  |
+| 31  | int -> str in item name | Aarnav Pai | Aarnav Pai |
