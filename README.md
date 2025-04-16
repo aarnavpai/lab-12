@@ -38,9 +38,9 @@
 | 4   | make items router an actual api router   | Aarnav Pai    | Aarnav Pai   |
 | 5   | fix double router.post in items          | Aarnav Pai    | Aarnav Pai   |
 | 6   | make Item inherit BaseModel              | Aarnav Pai    | Aarnav Pai   |
-| 7   | search/source not working in news.js     |  Samarth Rao  | Samarth Rao  |
-| 8   | Nav Bar missing from analytics.html      |Tarun Hariharan|Tarun Hariharan|
-| 9   |                                          |               |              |
+| 7   | Nav Bar missing from analytics.html      |Tarun Hariharan|Tarun Hariharan|
+| 8   | Fix the charset                          | Aarnav Pai    | Aarnav Pai   |
+| 9   | search/source not working in news.js     |  Samarth Rao  | Samarth Rao  |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
 | 12  |                                          |               |              |
