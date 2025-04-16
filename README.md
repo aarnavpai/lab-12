@@ -39,7 +39,7 @@
 | 5   | fix double router.post in items          | Aarnav Pai    | Aarnav Pai   |
 | 6   | make Item inherit BaseModel              | Aarnav Pai    | Aarnav Pai   |
 | 7   | search/source not working in news.js     |  Samarth Rao  | Samarth Rao  |
-| 8   |                                          |               |              |
+| 8   | Nav Bar missing from analytics.html      |Tarun Hariharan|Tarun Hariharan|
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
