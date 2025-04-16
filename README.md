@@ -26,7 +26,11 @@
 
 ### Add the names of the members and roll numbers of your team below
 
-- Name : Roll Number
+- Aarnav Pai - 2024115013
+- Hari Aakash K - 2024111001
+- Samarth Srihari Rao - 2024111035
+- Tarun Hariharan - 2024113009
+- Joshua Koilpillai - 2024101128
 
 ### Table to keep track
 
