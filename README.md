@@ -34,7 +34,7 @@
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |         Narain|    Whole Team|
 | 2   | changed style/ to script/ in profile.html|    Hari Aakash|   Hari Aakash|
-| 3   |                                          |               |              |
+| 3   | div container missing in items.html      |  Samarth      |     Samarth  |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
