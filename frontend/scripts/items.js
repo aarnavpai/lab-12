@@ -24,7 +24,7 @@ async function loadItems(searchTerm = "") {
 }
 
 async function deleteItem(id) {
-  await fetch(`${baseURL}/items/${id}`, { method: "POST" });
+  await fetch(`${baseURL}/items/${id}`, { method: "DELETE" });  //Changed POST to DELETE
   loadItems(document.getElementById("search").value); 
 }
 
