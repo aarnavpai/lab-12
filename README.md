@@ -36,7 +36,7 @@
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
-| 1   | Style.css is not filled                  |   Hari Aakash|    Hari Aakash|
+| 1   | Style.css is not filled                  |   Narein      |   Hari Aakash|
 | 2   | changed style/ to script/ in profile.html|    Hari Aakash|   Hari Aakash|
 | 3   | div container missing in items.html      |  Samarth      |     Samarth  |
 | 4   | make items router an actual api router   | Aarnav Pai    | Aarnav Pai   |
