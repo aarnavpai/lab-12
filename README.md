@@ -56,7 +56,7 @@
 | 18  |Fixed field names in analytics.py         |Tarun Hariharan|Tarun Hariharan|
 | 19  |Changed baseURL to 8000 in analytics.js   |Tarun Hariharan|Tarun Hariharan|
 | 20  |                                          |               |              |
-| 21  |                                          |               |              |
+| 21  | Add users router                         | Aarnav Pai    | Aarnav Pai   |
 | 22  | Quiz random qustion                      | Aarnav Pai    | Aarnav Pai   |
 | 23  | GET /answer -> POST                      | Aarnav Pai    | Aarnav Pai   |
 | 24  | Add CORS                                 | Aarnav Pai    | Aarnav Pai   |
