@@ -44,7 +44,7 @@
 | 10  | source select not working in news.js     |  Samarth Rao  | Samarth Rao  |
 | 11  | quiz missing from nav bar                |Tarun Hariharan|Tarun Hariharan|
 | 12  | Changed userCount in profile.html        | Joshua K      | Joshua K     |
-| 13  |                                          |               |              |
+| 13  | Changed html to json in items.js         | Joshua K      | Joshua K     |
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
