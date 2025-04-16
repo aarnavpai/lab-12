@@ -38,7 +38,7 @@
 | 4   | make items router an actual api router   | Aarnav Pai    | Aarnav Pai   |
 | 5   | fix double router.post in items          | Aarnav Pai    | Aarnav Pai   |
 | 6   | make Item inherit BaseModel              | Aarnav Pai    | Aarnav Pai   |
-| 7   |                                          |               |              |
+| 7   | search/source not working in news.js     |  Samarth Rao  | Samarth Rao  |
 | 8   |                                          |               |              |
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
