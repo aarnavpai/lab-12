@@ -53,7 +53,7 @@
 | 15  | Added a bunch of baseURLs in profile.js  | Joshua K      | Joshua K     |
 | 16  |                                          |               |              |
 | 17  |Fixed quiz.html layout, styles and nav bar|  Samarth Rao  | Samarth Rao  |
-| 18  |                                          |               |              |
+| 18  |Fixed field names in analytics.py         |Tarun Hariharan|Tarun Hariharan|
 | 19  |                                          |               |              |
 | 20  |                                          |               |              |
 | 21  |                                          |               |              |
