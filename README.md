@@ -39,7 +39,7 @@
 | 5   | fix double router.post in items          | Aarnav Pai    | Aarnav Pai   |
 | 6   | make Item inherit BaseModel              | Aarnav Pai    | Aarnav Pai   |
 | 7   | Nav Bar missing from analytics.html      |Tarun Hariharan|Tarun Hariharan|
-| 8   |                                          |               |              |
+| 8   |                                           |               |              |
 | 9   |                                          |               |              |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
