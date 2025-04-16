@@ -58,7 +58,7 @@
 | 20  |                                          |               |              |
 | 21  |                                          |               |              |
 | 22  |                                          |               |              |
-| 23  |                                          |               |              |
+| 23  | GET /answer -> POST                      | Aarnav Pai    | Aarnav Pai   |
 | 24  | Add CORS                                 | Aarnav Pai    | Aarnav Pai   |
 | 25  | Quiz router prefix                       | Aarnav Pai    | Aarnav Pai   |
 | 26  |                                          |               |              |
