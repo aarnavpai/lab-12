@@ -5,6 +5,8 @@ const feeds = [
 ];
 let allArticles = [];
 
+// <!--source and search fixed-->
+
 async function loadNews(searchTerm = "", source = "all", reset = false) {
   const list = document.getElementById("newsList");
   const loading = document.getElementById("loading");
