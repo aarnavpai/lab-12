@@ -63,6 +63,6 @@
 | 25  | Quiz router prefix                       | Aarnav Pai    | Aarnav Pai   |
 | 26  | POST /users -> GET                       | Aarnav Pai    | Aarnav Pai   |
 | 27  | Analytics router prefix                  | Aarnav Pai    | Aarnav Pai   |
-| 28  |                                          |               |              |
+| 28  |Delete on userID not all in users.py      |Tarun Hariharan|Tarun Hariharan|
 | 29  |                                          |               |              |
 | 30  | Deleted home.js                          |  Hari Aakash  | Hari Aakash  |
