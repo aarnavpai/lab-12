@@ -1,0 +1,26 @@
+services:
+  app:
+    build:
+      context: .
+    depends_on:
+      - mongo
+    restart: unless-stopped
+    environment:
+      - MONGO_URL=mongodb://mongo:27017
+    ports:
+      - 8000:8000
+    networks:
+      - app
+  mongo:
+    image: mongo
+    restart: unless-stopped
+    networks:
+      - app
+    volumes:
+      - mongo_data:/etc/mongo
+
+volumes:
+  mongo_data:
+
+networks:
+  app:
