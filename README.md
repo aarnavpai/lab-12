@@ -43,7 +43,7 @@
 | 9   | search not working in news.js            |  Samarth Rao  | Samarth Rao  |
 | 10  | source select not working in news.js     |  Samarth Rao  | Samarth Rao  |
 | 11  | quiz missing from nav bar                |Tarun Hariharan|Tarun Hariharan|
-| 12  |                                          |               |              |
+| 12  | Changed userCount in profile.html        | Joshua K      | Joshua K     |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
