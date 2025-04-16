@@ -54,7 +54,7 @@
 | 16  | Changed post to delete in items.js       | Joshua K      | Joshua K     |
 | 17  |Fixed quiz.html layout, styles and nav bar|  Samarth Rao  | Samarth Rao  |
 | 18  |Fixed field names in analytics.py         |Tarun Hariharan|Tarun Hariharan|
-| 19  |                                          |               |              |
+| 19  |Changed baseURL to 8000 in analytics.js   |Tarun Hariharan|Tarun Hariharan|
 | 20  |                                          |               |              |
 | 21  |                                          |               |              |
 | 22  | Quiz random qustion                      | Aarnav Pai    | Aarnav Pai   |
