@@ -68,3 +68,4 @@
 | 30  | Deleted home.js                          |  Hari Aakash  | Hari Aakash  |
 | 31  | int -> str in item name | Aarnav Pai | Aarnav Pai |
 | 32  | Singularize | Aarnav Pai | Aarnav Pai |
+| 33  |Fix delete in items.py                    |  Hari Aakash  | Hari Aakash  |
