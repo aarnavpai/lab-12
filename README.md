@@ -48,7 +48,7 @@
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
-| 17  |                                          |               |              |
+| 17  |Fixed quiz.html layout, styles and nav bar|  Samarth Rao  | Samarth Rao  |
 | 18  |                                          |               |              |
 | 19  |                                          |               |              |
 | 20  |                                          |               |              |
