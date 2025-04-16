@@ -38,11 +38,12 @@ async def get_analytics():
     user_count = len(users)
 
     print("e")
+    # field name mismatch shoud be name and username
     item_name_lengths = (
-        np.array([len(item["names"]) for item in items]) if items else np.array([])
+        np.array([len(item["name"]) for item in items]) if items else np.array([])
     )
     user_username_lengths = (
-        np.array([len(user["usernames"]) for user in users]) if users else np.array([])
+        np.array([len(user["username"]) for user in users]) if users else np.array([])
     )
     print("f")
 
